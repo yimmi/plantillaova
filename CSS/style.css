@@ -1,0 +1,148 @@
+
+#contenidos{
+
+	width: 650px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+}
+/*etiquetas*/
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+
+/*font-family: "Shadows Into Light", verdana;*/
+color: white;
+margin-left: 10px;
+font-size: 30px; 
+text-align: center;
+margin-top: 230px;
+}
+
+h2{
+/*font-family: "Indie flower", verdana;*/
+color: white;
+margin-left: 50px;
+font-size: 25px; 
+text-align: center;
+margin-top: 50px;
+}
+
+h3{
+
+/*font-family: "Indie flower", verdana;*/
+color: white;
+font-size: 13px; 
+text-align: center;
+}
+
+header{
+	font-color: white;
+	width: 650px;
+	height: 50px;
+	/*background: rgba(255, 255, 255, 3.5);*/
+	/*border-radius: 10px;*/
+	
+	margin-top: 80px;
+
+}
+
+nav{
+width: 700px;
+height: 400px;
+background: gray;
+border-radius: 5px;
+margin-top: 100px;
+
+}
+
+ul{
+margin-top: 100px;
+padding-top: 10px;
+}
+
+li{
+float: left;
+list-style-type: none;
+padding: 10px;
+background: orange;
+margin: 3px;
+border-radius: 10px;
+box-shadow: 0 0 10px black inset;
+}
+
+li:hover{
+	background: black;
+	box-shadow: 0 0 800px maroon inset;
+
+}
+
+section{
+	width: 600px;
+	height: 200px;
+		font-color: white;
+	float: center;
+	margin-top: 20px;
+	border-radius: 10px;
+	margin-top: 100px;
+
+	
+}
+
+aside{
+	width: 280;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+footer{
+	width: 700px;
+	height: 25px;
+	background: maroon;
+	float: center;
+	margin-top: 140px;
+	border-radius: 10px;
+	margin-bottom: 105;
+}
+
+
+/*clase*/
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.munu:link{color: white; text-decoration: none;}
+.munu:visited{color: white; text-decoration: none;}
+.munu:hover{ color: white; text-decoration: none; text-shadow: 1 5 30px white; }
+.munu:active{color: white; text-decoration: none;}
+
+/*seudo clases*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
